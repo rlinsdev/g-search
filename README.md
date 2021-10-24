@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 --# [Live Site:](https://lins-travel-advisor.netlify.app/)
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+
 
 
 # Sumary: 
@@ -12,10 +12,9 @@ Google Search - Using API
 * NPM
 * Git
 * React
---* Axios
---* Material UI
 * npx create-react-app ./ 
---* npm i @material-ui/core @material-ui/icons @material-ui/lab @react-google-maps/api axios google-map-react
+* npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+* npm install @craco/craco
 
 
 # APIs
