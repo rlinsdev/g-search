@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 # Sumary: 
-Google Search - Using API
+Google Search - Using API google
 
 
 # Packages and tools
@@ -15,6 +15,7 @@ Google Search - Using API
 * npx create-react-app ./ 
 * npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
 * npm install @craco/craco
+* npx tailwindcss-cli@latest init
 
 
 # APIs
@@ -29,7 +30,8 @@ Google Search - Using API
 
 
 # Links
---* http://console.cloud.google.com/projectcreate
+* https://github.com/adrianhajdin/project_google_clone
+* https://tailwindcss.com/
 * https://rapidapi.com/
 
 
