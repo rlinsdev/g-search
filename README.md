@@ -1,3 +1,43 @@
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+--# [Live Site:](https://lins-travel-advisor.netlify.app/)
+![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+
+
+# Sumary: 
+Google Search - Using API
+
+
+# Packages and tools
+* NPM
+* Git
+* React
+--* Axios
+--* Material UI
+* npx create-react-app ./ 
+--* npm i @material-ui/core @material-ui/icons @material-ui/lab @react-google-maps/api axios google-map-react
+
+
+# APIs
+--* RapidAPI - Open Weather - https://rapidapi.com/hub
+--* RapidAPI - Travel Advisor - https://rapidapi.com/hub
+--* Google Maps
+--* Google Place
+
+
+# Publish
+--* Netlify 
+
+
+# Links
+--* http://console.cloud.google.com/projectcreate
+* https://rapidapi.com/
+
+
+# Based on:
+* https://www.youtube.com/watch?v=NDbruK1fzG8
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
