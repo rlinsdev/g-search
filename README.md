@@ -16,6 +16,7 @@ Google Search - Using API google
 * npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
 * npm install @craco/craco
 * npx tailwindcss-cli@latest init
+* npm i react-router-dom react-player react-loader-spinner use-debounce 
 
 
 # APIs
