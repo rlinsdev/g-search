@@ -17,17 +17,15 @@ Google Search - Using API google
 * npm install @craco/craco
 * npx tailwindcss-cli@latest init
 * npm i react-router-dom react-player react-loader-spinner use-debounce 
+* npm run build
 
 
 # APIs
---* RapidAPI - Open Weather - https://rapidapi.com/hub
---* RapidAPI - Travel Advisor - https://rapidapi.com/hub
---* Google Maps
---* Google Place
+* Google Search 3
 
 
 # Publish
---* Netlify 
+* Netlify 
 
 
 # Links
